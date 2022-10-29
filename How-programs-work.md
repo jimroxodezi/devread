@@ -1,0 +1,1 @@
+- [ ] [python hello world](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
