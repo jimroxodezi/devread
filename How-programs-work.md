@@ -1,1 +1,2 @@
 - [ ] [python hello world](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
+- [x] [syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
