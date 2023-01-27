@@ -2,3 +2,4 @@
 - [x] [syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 - [ ] [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 - [ ] [Computers Are Fast](https://computers-are-fast.github.io/)
+- [ ] [Encodings and Character Sets](https://kunststube.net/encoding/)
