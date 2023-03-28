@@ -1,2 +1,3 @@
 - [ ] [Why React re-renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [ ] [Running JavaScript Promises in Parallel](https://blog.openreplay.com/promises-in-parallel/)
+- [ ] [21 Valuable HTML & CSS Code Snippets for Web Developers](https://hackernoon.com/21-valuable-html-and-css-code-snippets-for-web-developers)
