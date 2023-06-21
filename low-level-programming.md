@@ -3,3 +3,6 @@
 - [ ] [How to make executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
 - [ ] [How pointers work, or what's in a byte](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
 - [ ] [What is Systems Programming, Really?](https://willcrichton.net/notes/systems-programming/)
+- [ ] [Centralised Memory Management](https://sasluca.github.io/cmm.html)
+- [ ] [C Compilation Flags](https://nullprogram.com/blog/2023/04/29/)
+- [ ] [Everything I Wish I Knew When Learning C](https://tmewett.com/c-tips/)
