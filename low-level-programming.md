@@ -11,3 +11,6 @@
 - [ ] [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - [ ] [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 - [ ] [Idiomatic Event Loop in C++](https://habr.com/en/articles/665730/)
+- [ ] [How to Write Better (Game) Libraries](https://handmade.network/forums/articles/t/7138-how_to_write_better_game_libraries)
+- [ ] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
+- [ ] 
