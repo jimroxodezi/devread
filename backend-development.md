@@ -1,1 +1,1 @@
-[ ] [Implementing the WebSocket Protocol from scratch using Node.js](https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs)
+- [ ] [Implementing the WebSocket Protocol from scratch using Node.js](https://blog.erickwendel.com.br/implementing-the-websocket-protocol-from-scratch-using-nodejs)
