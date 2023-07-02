@@ -6,3 +6,8 @@
 - [ ] [Centralised Memory Management](https://sasluca.github.io/cmm.html)
 - [ ] [C Compilation Flags](https://nullprogram.com/blog/2023/04/29/)
 - [ ] [Everything I Wish I Knew When Learning C](https://tmewett.com/c-tips/)
+- [ ] [Writing a Simple Garbage Collector in C](https://maplant.com/gc.html)
+- [ ] [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [ ] [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+- [ ] [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+- [ ] [Idiomatic Event Loop in C++](https://habr.com/en/articles/665730/)
