@@ -1,0 +1,3 @@
+ - [ ] [Compile Time Data Structure Using Template Meta Programming](https://www.codeproject.com/Articles/31694/A-Compile-Time-Data-Structure-Using-Template-Meta)
+ - [ ] [Creating a Compile-Time Set Data Structure in C++](https://accu.org/journals/overload/26/146/kozicki_2531/)
+ - [ ] [Creating a Compile-Time Set Data Structure in C++](https://tech.jocodoma.com/2019/03/20/Creating-a-Compile-Time-Set-Data-Structure-in-CPP/)
