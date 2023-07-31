@@ -1,3 +1,7 @@
  - [ ] [Compile Time Data Structure Using Template Meta Programming](https://www.codeproject.com/Articles/31694/A-Compile-Time-Data-Structure-Using-Template-Meta)
  - [ ] [Creating a Compile-Time Set Data Structure in C++](https://accu.org/journals/overload/26/146/kozicki_2531/)
  - [ ] [Creating a Compile-Time Set Data Structure in C++](https://tech.jocodoma.com/2019/03/20/Creating-a-Compile-Time-Set-Data-Structure-in-CPP/)
+ - [ ] [@odinthenerd blog](http://odinthenerd.blogspot.com/)
+ - [ ] [Compile TIme Type List](https://galowicz.de/2016/05/08/compile_time_type_lists/)
+ - [ ] [Jean Guegant on meta-programming](https://jguegant.github.io/blogs/tech/tag/meta-programming.html)
+ - [ ] [Matt Bierner stupid template series](https://blog.mattbierner.com/series/stupid_template_tricks/)
