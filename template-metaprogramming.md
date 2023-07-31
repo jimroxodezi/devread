@@ -5,3 +5,4 @@
  - [ ] [Compile TIme Type List](https://galowicz.de/2016/05/08/compile_time_type_lists/)
  - [ ] [Jean Guegant on meta-programming](https://jguegant.github.io/blogs/tech/tag/meta-programming.html)
  - [ ] [Matt Bierner stupid template series](https://blog.mattbierner.com/series/stupid_template_tricks/)
+ - [ ] [Selection Sorting a Typelist Code Review](https://codereview.stackexchange.com/questions/131194/selection-sorting-a-type-list-compile-time)
