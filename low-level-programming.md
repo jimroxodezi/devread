@@ -14,3 +14,4 @@
 - [ ] [How to Write Better (Game) Libraries](https://handmade.network/forums/articles/t/7138-how_to_write_better_game_libraries)
 - [ ] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [ ] [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
+- [ ] [C++ Things to Think About While Programming](https://palikar.github.io/projects/cpp_tips/)
