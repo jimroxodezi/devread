@@ -16,3 +16,5 @@
 - [ ] [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
 - [ ] [C++ Things to Think About While Programming](https://palikar.github.io/projects/cpp_tips/)
 - [ ] [A C++ Expression Parser Tutorial](https://unclechromedome.org/c++-tutorials/expression-parser/index.html)
+- [ ] [Behind "hello world" in Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
+- [ ] 
