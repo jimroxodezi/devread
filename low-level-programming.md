@@ -17,3 +17,5 @@
 - [ ] [C++ Things to Think About While Programming](https://palikar.github.io/projects/cpp_tips/)
 - [ ] [A C++ Expression Parser Tutorial](https://unclechromedome.org/c++-tutorials/expression-parser/index.html)
 - [ ] [Behind "hello world" in Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
+- [ ] [What Every C Programmer Should Know About Undefined Behaviour](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+- [ ] [Generic Vector Class](https://www.cs.fsu.edu/~lacher/courses/REVIEWS/cop4531/vectors/script.html)
